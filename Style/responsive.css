@@ -1,0 +1,29 @@
+@media only screen and (max-width:700px){
+    .system h1{
+        width: 100vw;
+        color: red;
+        font-size: 40px;
+    }
+    .num{
+        width: 70vw;
+    }
+    #btn{
+        width: 30vw;
+    }
+}
+@media only screen and (max-width:1000px){
+    body{
+        background-image: url("../Style/mobile-img.webp");
+        background-repeat: none;
+        height: 150vh;
+
+    }
+    .system h1{
+        color: red;
+    }
+}
+@media only screen and (max-width:350px){
+    body{
+        height: 180vh;
+    }
+}
