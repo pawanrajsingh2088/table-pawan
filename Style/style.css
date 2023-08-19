@@ -57,7 +57,7 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 5vh;
-    border: 5px solid black;
+    border: 5px solid magenta;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
     display: none;
